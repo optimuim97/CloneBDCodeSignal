@@ -12,7 +12,7 @@ _Email
 _Password
 
 3.dashboard
-------ARCADE
+--------------ARCADE----------------
 _Panneau Challenge(Arcade)
 
 _Historique d'activité
