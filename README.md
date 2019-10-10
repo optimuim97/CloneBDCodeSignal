@@ -3,10 +3,11 @@
 Cahier de charge
 
 1.Inscription
-_Nom_Complet
-_Email
-_Password
-
+***
+    _Nom_Complet
+    _Email
+    _Password
+***
 2.Connexion
 _Email
 _Password
